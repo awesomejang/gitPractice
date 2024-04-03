@@ -6,4 +6,8 @@ test_squash.test
 
 test_squash2.test
 
+<<<<<<< HEAD
 test_squash3.test
+=======
+test_squash.test
+>>>>>>> 4b8581a (test_squash1)
