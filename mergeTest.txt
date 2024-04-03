@@ -23,3 +23,5 @@ test3
 test4
 
 test_squash.test
+
+test_squash2.test
