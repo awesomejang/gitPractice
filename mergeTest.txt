@@ -12,3 +12,9 @@ test_cherrypick1
 test_cherrypick1
 test_cherrypick2
 
+<<<<<<< HEAD
+=======
+test_cherrypick2
+
+test_cherrypick3
+>>>>>>> 914828d (conflict)
