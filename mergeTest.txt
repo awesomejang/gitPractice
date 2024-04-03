@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 e3ec4e1 
 ceb2306 
 
@@ -9,3 +10,8 @@ test_squash3.test
 49824bd (test_squash3)
 test_cherrypick1
 
+=======
+test_cherrypick1
+
+test_cherrypick2
+>>>>>>> fdd94fd (Test_cherrypick2)
