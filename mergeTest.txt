@@ -1,2 +1,9 @@
+
 e3ec4e1 
 ceb2306 
+
+test_squash.test
+
+test_squash2.test
+
+test_squash3.test
