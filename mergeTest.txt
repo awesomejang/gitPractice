@@ -9,9 +9,6 @@ test_squash3.test
 5501c69 (test_squash2)
 49824bd (test_squash3)
 test_cherrypick1
-
-=======
 test_cherrypick1
-
 test_cherrypick2
->>>>>>> fdd94fd (Test_cherrypick2)
+
