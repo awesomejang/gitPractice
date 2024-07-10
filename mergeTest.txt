@@ -1,1 +1,1 @@
-revert content1
+revert target content
